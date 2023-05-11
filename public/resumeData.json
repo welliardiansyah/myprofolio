@@ -1,0 +1,288 @@
+{
+  "main": {
+    "name": "Welli Ardiansyah",
+    "occupation": "Software Engineer (Backend)",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I'm Welli Ardiansyah! I am a self-taught programmer, since I was in school I love the world of programming and am very interested in it as it is my daily hobby, I like new technology recently and I really want to master it, in the programmer world I have been working for 7 years but If combined with the beginning I can program since 2013 last year I can already speak the programming language that I like the most when I first learned I was very interested in the Python programming language and until now I continue to read to get better at programming in Python and other technologies in programming.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "ardiansyahwelly1992@gmail.com",
+    "phone": "+62 8872373723",
+    "address": {
+      "street": "Jl. Kp utan jaya RT05/008",
+      "city": "Depok - Indonesia",
+      "state": "Jawa Barat",
+      "zip": "16512"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ardiansyah-welly/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ardiansyahwelli",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "frameworkmessage": "My Framework Language Proficiency",
+    "technologiesmessage": "My Technologies use",
+    "databasemessage": "My Database use",
+    "education": [
+      {
+        "school": "Yayasan 2000",
+        "degree": "IPS",
+        "graduated": "Apr 2017",
+        "description": ""
+      },
+      {
+        "school": "Course-Net",
+        "degree": "Fullstack Javascript",
+        "graduated": "Apr 2019",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "FaberHost Indonesia - Digital and IT Solution",
+        "title": "Software Engineer (Fullstack) - (OnSite)",
+        "years": "Mar 2018 - Apr 2020 · 2 yrs 2 mos",
+        "description": "Here I work as a website development and android & ios mobile application development, where I develop a system or website in collaboration with PT. Wahana Tata Mandiri (faberhost.com), and create a security system based on phpcode such as making an IP bot filter."
+      },
+      {
+        "company": "PT.ADYAWINSA TELECOMUNICATION & ELECTRICAL",
+        "title": "Software Engineer (Fullstack) - (OnSite)",
+        "years": "Apr 2020 - Apr 2021 · 1 yr 1 mo",
+        "description": "Here I am as a development system ERP, CRM, HRM, GL, MFG INVENTORY and I hold several other systems such as e-project system, file system, file system, inventory system. For every day I work to maintain this system and the maintance system so that it can always run well, revise some code every day so that this system does not have bugs and errors."
+      },
+      {
+        "company": "Expatify Indonesia (Shopify Expert)",
+        "title": "Software Engineer (Fullstack) - Freelance",
+        "years": "Mar 2018 - Apr 2020 · 2 yrs 2 mos",
+        "description": "Here I made a payment gateway system with Python and Django framework and database use DynamoDB, this payment gateway for the needs of the shopify plugin and integrated with Xendit."
+      },
+      {
+        "company": "PT . SELARAS BAHAGIA LESTARI",
+        "title": "Development Project Manager (Full Remote)",
+        "years": "Aug 2021 - May 2022 · 10 mos",
+        "description": "Here I work as a website development and android & ios mobile application development, where I develop a system or website in collaboration with PT. Wahana Tata Mandiri (faberhost.com), and create a security system based on phpcode such as making an IP bot filter."
+      },
+      {
+        "company": "PT. Elektronik Distribusi Otomatisasi Terkemuka (Nabati Groups)",
+        "title": "Backend Developer (Full Remote)",
+        "years": "Jun 2022 - Mar 2023 · 10 mos",
+        "description": "Here I am as a backend developer with workers to maintain and look for bugs to fix also here I am creating a new upcoming project."
+      },
+      {
+        "company": "VNT NETWORKS ( PT.JARINGAN VNT INDONESIA)",
+        "title": "Backend Developer (Hybrid)",
+        "years": "Mar 2023 - Present · 3 mos",
+        "description": "Here I am a backend developer and am tasked with creating systems such as CRM, Internal SupperApps and for customer needs, also making music or karaoke application systems."
+      }
+    ],
+    "skills": [
+      {
+        "name": "PHP",
+        "level": "90%"
+      },
+      {
+        "name": "GO",
+        "level": "79%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "Java",
+        "level": "55%"
+      },
+      {
+        "name": "Javascript",
+        "level": "95%"
+      }
+    ],
+    "framework": [
+      {
+        "name": "React JS",
+        "level": "90%"
+      },
+      {
+        "name": "React-Native",
+        "level": "50%"
+      },
+      {
+        "name": "Next JS",
+        "level": "75%"
+      },
+      {
+        "name": "Express JS",
+        "level": "75%"
+      },
+      {
+        "name": "Rust JS",
+        "level": "55%"
+      },
+      {
+        "name": "Nest JS",
+        "level": "100%"
+      },
+      {
+        "name": "Django",
+        "level": "50%"
+      },
+      {
+        "name": "Quarkus",
+        "level": "65%"
+      },
+      {
+        "name": "Laravel",
+        "level": "95%"
+      },
+      {
+        "name": "CodeIgniter",
+        "level": "100%"
+      }
+    ],
+    "technology": [
+      {
+        "name": "Linux",
+        "level": "80%"
+      },
+      {
+        "name": "Mac Os",
+        "level": "95%"
+      },
+      {
+        "name": "Windows",
+        "level": "75%"
+      },
+      {
+        "name": "Monolith",
+        "level": "95%"
+      },
+      {
+        "name": "Microservices",
+        "level": "90%"
+      },
+      {
+        "name": "Redis",
+        "level": "85%"
+      },
+      {
+        "name": "RabbitMQ",
+        "level": "80%"
+      },
+      {
+        "name": "GRPC",
+        "level": "85%"
+      },
+      {
+        "name": "Kubernetes & MiniKube",
+        "level": "85%"
+      },
+      {
+        "name": "Docker",
+        "level": "86%"
+      },
+      {
+        "name": "VPS",
+        "level": "88%"
+      },
+      {
+        "name": "UBUNTU & DEBIAN",
+        "level": "80%"
+      },
+      {
+        "name": "AWS CLOUDS",
+        "level": "85%"
+      },
+      {
+        "name": "Google CLoud",
+        "level": "75%"
+      },
+      {
+        "name": "AZURE CLOUD",
+        "level": "65%"
+      },
+      {
+        "name": "DIGITAL OCEAN",
+        "level": "85%"
+      },
+      {
+        "name": "HEROKU",
+        "level": "80%"
+      },
+      {
+        "name": "Github & Gitlab",
+        "level": "85%"
+      },
+      {
+        "name": "Postman",
+        "level": "100%"
+      }
+    ],
+    "database": [
+      {
+        "name": "MYSQL",
+        "level": "95%"
+      },
+      {
+        "name": "POSTGRESQL",
+        "level": "95%"
+      },
+      {
+        "name": "MONGODB",
+        "level": "75%"
+      },
+      {
+        "name": "DYNAMODB",
+        "level": "85%"
+      },
+      {
+        "name": "ELASTICH SEARCH",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Snapchat Clone (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
